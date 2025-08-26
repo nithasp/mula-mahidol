@@ -1,0 +1,3 @@
+<template>
+    evaluation-educational
+</template>
